@@ -1,6 +1,6 @@
 import util
 
-filepath = r"C:\Users\jan_m\Documents\Code\python_projects\advent_of_code_21\03\input.txt"
+filepath = r"...\advent_of_code_21\03\input.txt"
 input = util.readFile(filepath)
 
 binary_one = ""
