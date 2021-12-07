@@ -18,7 +18,7 @@ def calculate_fish(lst, num_days):
         c[7] = c[8]
         c[8] = temp
 
-    return(sum((c.values())))
+    return(sum(c.values()))
 
 print(calculate_fish(input, 256))
 
